@@ -2,11 +2,11 @@
 <h3 align="center">A computer science student from Hunter College</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kazi27&label=Profile%20views&color=0e75b6&style=flat" alt="kazi27" /> </p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/90419249/236641670-07fafd05-0ec7-41bb-ae0e-5f16cd4b593d.gif" alt="kazi27" /> </p>
+<p align="center"> <img src="https://github.com/Kazi27/Kazi27/assets/90419249/22fbcb33-13c7-4660-8a11-0c9c66e82993" alt="kazi27" /> </p>
 
-- 🔭 I’m currently working on **[my website](kazianwar.com) & [VR Project](https://www.youtube.com/watch?v=LWdkBhlhU2U)!**
+- 🔭 I’m currently working on **[my website](kazianwar.com), [time detective](https://www.youtube.com/watch?v=LWdkBhlhU2U) & unsplash x pexels moodboard!**
 
-- 👯 I collaborated on **[meal master!](https://github.com/Kazi27/Meal-Master.git)**
+- 👯 I collaborated on **[meal master!](https://github.com/Kazi27/Meal-Master.git)** in the past and currently working alongside teammates for other projects!
 
 - 📫 Reach me at **[kazisameen2702@gmail.com!](kazisameen2702@gmail.com)**
 
