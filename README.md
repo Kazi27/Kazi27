@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kazi27&label=Profile%20views&color=0e75b6&style=flat" alt="kazi27" /> </p>
 <p align="center"> <img src="https://github.com/Kazi27/Kazi27/assets/90419249/22fbcb33-13c7-4660-8a11-0c9c66e82993" alt="kazi27" /> </p>
 
-- 🔭 I’m currently working on **[my website](kazianwar.com), [time detective](https://www.youtube.com/watch?v=LWdkBhlhU2U) & [unsplash x pexels moodboard](https://github.com/Kazi27/moodboard-frontend)!**
+- 🔭 I’m currently working on **[my website](kazianwar.com), [time detective](https://youtu.be/WnpXQelQGEQ?si=72oPeM1QuEXd0HKE) & [unsplash x pexels moodboard](https://github.com/Kazi27/moodboard-frontend)!**
 
 - 👯 I collaborated on **[meal master!](https://github.com/Kazi27/Meal-Master.git)** in the past and currently working alongside teammates for other projects!
 
