@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at DoSomething.org as a Product & Engineering Intern and in the process of updating **[my portfolio](https://kazi27.github.io/)!**
 
-- 👯 I collaborated on **[meal master](https://github.com/Kazi27/Meal-Master.git), [time detective](https://youtu.be/WnpXQelQGEQ?si=72oPeM1QuEXd0HKE) & [unsplash x pexels moodboard](https://github.com/Kazi27/moodboard-frontend)** in the past and currently working alongside teammates for my final capstone project - [Patient Priority!](https://github.com/NectDz/PatientPriority.git)!
+- 👯 I collaborated on **[meal master](https://github.com/Kazi27/Meal-Master.git), [time detective](https://youtu.be/WnpXQelQGEQ?si=72oPeM1QuEXd0HKE) & [unsplash x pexels moodboard](https://github.com/Kazi27/moodboard-frontend)** in the past and currently working alongside teammates for my final capstone project - **[Patient Priority!](https://github.com/NectDz/PatientPriority.git)**
 
 - 📫 Reach me at **[kazisameen2702@gmail.com!](kazisameen2702@gmail.com)**
 
