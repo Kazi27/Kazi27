@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kazi27&label=Profile%20views&color=0e75b6&style=flat" alt="kazi27" /> </p>
 <p align="center"> <img src="https://github.com/Kazi27/Kazi27/assets/90419249/22fbcb33-13c7-4660-8a11-0c9c66e82993" alt="kazi27" /> </p>
 
-- 🔭 I’m currently working at DoSomething.org as a Product & Engineering Intern and in the process of updating **[my portfolio](https://kazi27.github.io/)!**
+- 🔭 I’m currently working at DoSomething.org as a Software Engineering Intern and in the process of updating **[my portfolio](https://kazi27.github.io/)!**
 
 - 👯 I collaborated on **[meal master](https://github.com/Kazi27/Meal-Master.git), [time detective](https://youtu.be/WnpXQelQGEQ?si=72oPeM1QuEXd0HKE) & [unsplash x pexels moodboard](https://github.com/Kazi27/moodboard-frontend)** in the past and currently working alongside teammates for my final capstone project - **[Patient Priority!](https://github.com/NectDz/PatientPriority.git)**
 
