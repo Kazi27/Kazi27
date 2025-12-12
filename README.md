@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kazi Anwar</h1>
-<h3 align="center">A computer science senior at Hunter College</h3>
+<h3 align="center">A computer science graduate from Hunter College</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kazi27&label=Profile%20views&color=0e75b6&style=flat" alt="kazi27" /> </p>
 <p align="center"> <img src="https://github.com/Kazi27/Kazi27/assets/90419249/22fbcb33-13c7-4660-8a11-0c9c66e82993" alt="kazi27" /> </p>
 
-- 🔭 I’m currently working at DoSomething.org as a Software Engineering Intern and in the process of updating **[my portfolio](https://kazi27.github.io/)!**
+- 🔭 I’m currently working at the Queens Public Library as a Tech Lead and in the process of updating **[my portfolio](https://kazi27.github.io/)!**
 
-- 👯 I collaborated on **[meal master](https://github.com/Kazi27/Meal-Master.git), [time detective](https://youtu.be/WnpXQelQGEQ?si=72oPeM1QuEXd0HKE) & [unsplash x pexels moodboard](https://github.com/Kazi27/moodboard-frontend)** in the past and currently working alongside teammates for my final capstone project - **[Patient Priority!](https://github.com/NectDz/PatientPriority.git)**
+- 👯 I collaborated on a lot of projects across various tech stacks and a few of my favorites are **[meal master](https://github.com/Kazi27/Meal-Master.git), [time detective](https://youtu.be/WnpXQelQGEQ?si=72oPeM1QuEXd0HKE), [unsplash x pexels moodboard](https://github.com/Kazi27/moodboard-frontend)** and last but definetly not least, my final capstone project - **[Patient Priority!](https://github.com/NectDz/PatientPriority.git)**
 
 - 📫 Reach me at **[kazisameen2702@gmail.com!](kazisameen2702@gmail.com)**
 
@@ -16,8 +16,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/kazisanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazisanwar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCS4AtmugMsIYWnRT_ZxFzRw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kazianwar" height="30" width="40" /></a>
-<a href="https://instagram.com/kazi.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kazi.03" height="30" width="40" /></a>
-<a href="https://discord.gg/kazi.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kazi.03" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/kazi.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kazi.03" height="30" width="40" /></a> -->
+<!-- <a href="https://discord.gg/kazi.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kazi.03" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
