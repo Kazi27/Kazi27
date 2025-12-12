@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kazi27&label=Profile%20views&color=0e75b6&style=flat" alt="kazi27" /> </p>
 <p align="center"> <img src="https://github.com/Kazi27/Kazi27/assets/90419249/22fbcb33-13c7-4660-8a11-0c9c66e82993" alt="kazi27" /> </p>
 
-- 🔭 I’m currently working at the Queens Public Library as a Tech Lead and in the process of updating **[my portfolio](https://kazi27.github.io/)!**
+- 🔭 I’m currently working at the Queens Public Library as a Tech Lead and in the process of updating **[my portfolio](https://kazi27.github.io/) !**
 
-- 👯 I collaborated on a lot of projects across various tech stacks and a few of my favorites are **[meal master](https://github.com/Kazi27/Meal-Master.git), [time detective](https://youtu.be/WnpXQelQGEQ?si=72oPeM1QuEXd0HKE), [unsplash x pexels moodboard](https://github.com/Kazi27/moodboard-frontend)** and last but definetly not least, my final capstone project - **[Patient Priority!](https://github.com/NectDz/PatientPriority.git)**
+- 👯 I collaborated on a lot of projects across various tech stacks and a few of my favorites are **[meal master](https://github.com/Kazi27/Meal-Master.git), [time detective](https://youtu.be/WnpXQelQGEQ?si=72oPeM1QuEXd0HKE), [unsplash x pexels moodboard](https://github.com/Kazi27/moodboard-frontend)** and last but definetly not least, my final capstone project - **[Patient Priority](https://github.com/NectDz/PatientPriority.git) !**
 
-- 📫 Reach me at **[kazisameen2702@gmail.com!](kazisameen2702@gmail.com)**
+- 📫 Reach me at **[kazisameen2702@gmail.com](kazisameen2702@gmail.com) !**
 
-- 📄 Learn about me at **[LinkedIn!](https://www.linkedin.com/in/kazisanwar/)** or checkout **[my portfolio](https://kazi27.github.io/)**!
+- 📄 Learn about me at **[LinkedIn!](https://www.linkedin.com/in/kazisanwar/)** or checkout **[my portfolio](https://kazi27.github.io/) !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
